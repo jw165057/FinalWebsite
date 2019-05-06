@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #e1e32e;
+}
+
+.header{
+    background: #e1e32e;
+}
+
+.container{
+    background: #35c42d;
+    max-width: 1200px;
+    margin: 20px auto;
+    height: 55px;
+}
+
+.nav{
+    float: right;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.nav ul li a{
+    padding: 10px 50px 10px 0px;
+    text-decoration: none;
+    color: #303030;
+    line-height: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.nav ul li a:hover{
+    color: #3e99ff;
+}
+
+.rackets{
+    float: left;
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+h2,h3{
+    font-family: 'Patua One', cursive;
+    padding: 0px 30px;
+}
+
+.aside-title{
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+p{
+    padding: 20px 30px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-2{
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.sidebar{
+    width: 26%;
+    float: right;;
+    background: #35c42d;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar ul{
+    margin-left: 20px;
+}
+
+.footer{
+    background: #35c42d;
+    min-width: 840px;
+    margin: 20px auto;
+    height: 55px;
+    clear: both;
+    float: left;
+    margin-top: 0;
+    text-align: center;
+}
+
+.small-text{
+    margin: 18px;
+}
+
+.email{
+    width: 165px;
+    float: left;
+}
+
+.phone{
+    float: left;
+    border-left: 1px;
+    border-style: solid;
+}
+
+.content{
+    width: 70%;
+    float: left;
+    background: #35c42d;
+    margin-bottom: 20px;
+}
+
+.tennis-player{
+    margin: 30px;
+    width: 400px;
+}
+
+.right-float{
+    float: right;
+}
+
+.left-float{
+    float: left;
+    width: 350px;
+}
+
+.overview{
+    float: right;
+    width: 300px;
+    padding-top: 35px;
+    padding-right: 70px;
+    padding-left: 0px;
+}
+
+.rules-of-tennis{
+    padding-bottom: 20px;
+}
+
+.tennis-diagram{
+    margin-left: 100px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+.scoring{
+    padding-bottom: 0px;
+}
+
+.img-Aus-Open{
+    padding-top: 31px;
+    padding-right: 50px;
+}
+
+.Aus-Open{
+    float: left;
+    width: 375px;
+    padding-right: 0px;
+}
+
+.display-left{
+    clear: left;
+}
+
+.French-Open{
+    width: 375px;
+    padding-top: 30px;
+    padding-left: 0px;
+}
+
+.img-FrenchOpen{
+    padding: 20px 30px;
+    width: 370px;
+    height: 210px;
+}
+
+.img-Wimbledon{
+    width: 400px;
+    float: right;
+    padding-right: 30px;
+}
+
+.USOpen{
+    width: 370px;
+    padding-top: 30px;
+}
+
+.img-USOpen{
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.lower-tournaments{
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lower-tournaments li{
+    padding-bottom: 10px;
+}
+
+.best-players{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-ten{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.contact-info{
+    padding: 5px 10px;
+}
+
+.roger-federer{
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.records{
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.records li{
+    padding-bottom: 5px;
+}
